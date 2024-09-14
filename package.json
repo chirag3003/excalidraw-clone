@@ -1,0 +1,23 @@
+{
+  "name": "collaborate-with-me",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "turbo dev",
+    "build": "turbo build",
+    "start": "turbo start"
+  },
+  "keywords": [
+    "collaborate",
+    "with",
+    "me"
+  ],
+  "author": {
+    "name": "Jyotirmoy <BRAVO68WEB> Bandyopadhayaya",
+    "email": "hi@b68.dev"
+  },
+  "license": "ISC",
+  "packageManager": "pnpm@9.8.0",
+  "devDependencies": {
+    "turbo": "^2.1.2"
+  }
+}
